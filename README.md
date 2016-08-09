@@ -13,10 +13,10 @@ How to compile your scripts :
 <br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;mention the location of your script files in reference to root
 <br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;My files are in /src folder.
 
-<br>3. In root, type these commands
-	<br>&ensp;&ensp;&ensp;> &ensp;mkdir build
-	<br>&ensp;&ensp;&ensp;> &ensp;cd build/
-	<br>&ensp;&ensp;&ensp;> &ensp;cmake ../
-	<br>&ensp;&ensp;&ensp;> &ensp;make
-	<br>&ensp;&ensp;&ensp;> &ensp;./tutifruti (or the name of your own built binary)
+<br>&ensp;&ensp;&ensp;3. In root, type these commands
+	<br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;> &ensp;mkdir build
+	<br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;> &ensp;cd build/
+	<br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;> &ensp;cmake ../
+	<br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;> &ensp;make
+	<br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;> &ensp;./tutifruti (or the name of your own built binary)
 
